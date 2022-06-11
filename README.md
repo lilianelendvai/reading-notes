@@ -2,6 +2,8 @@
 
 ## My learning journal for code fellows!
 
+Hello, and I'm Liliane Lendvai. Thank you for visiting my Reading Notes page for the Code Fellows 102 course. I live in the PNW / greater Seattle area, and as a former Californian, I'm constantly in awe of all the greenery up this way and not being in a constant drought. I'm a former music instructor, a current executive recruiter, and a newbie coder!
+
 ## Learning about bravery from a 10-year-old: what it means to have a Growth Mindset
 
 > **Ms. Lili, I don't think I should stay in band. I haven't been able to make a sound, and I'm really trying. But I just can't get it, and I don't think I can.**
