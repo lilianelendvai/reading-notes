@@ -2,7 +2,7 @@
 
 ## My learning journal for code fellows!
 
-## Learning bravery from a 10-year-old: what it means to have a Growth Mindset
+## Learning about bravery from a 10-year-old: what it means to have a Growth Mindset
 
 > **Ms. Lili, I don't think I should stay in band. I haven't been able to make a sound, and I'm really trying. But I just can't get it, and I don't think I can.**
 
