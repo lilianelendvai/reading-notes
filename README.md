@@ -6,7 +6,7 @@ Hello, and I'm Liliane Lendvai. Thank you for visiting my Reading Notes page for
 
 ## Learning about bravery from a 10-year-old: what it means to have a Growth Mindset
 
-> **Ms. Lili, I don't think I should stay in band. I haven't been able to make a sound, and I'm really trying. But I just can't get it, and I don't think I can.**
+> **Ms. Lili, I don't think I should stay in band. I haven't been able to make a sound, and I'm really trying. I just can't get it.**
 
 It's been about two weeks since Kylie, along with twelve other 6th graders, started learning their new instrument: the flute. Most of the kids have made admittedly out of pitch but clearly audible notes, pressing the keys with as much force as they could muster from their fingers and making themselves dizzy, rapidly pushing all of the air from their little lungs into their instruments. There's a euphoria that comes from making that first squeak: an initial validation that you've got the goods to learn music. But that moment hadn't come yet for Kylie.
 
