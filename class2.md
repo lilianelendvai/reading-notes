@@ -31,4 +31,4 @@
 
 **Shortcuts**
 - use **file** to obtain information about what type of a file a file or a directory is
-- - use **ls -a** to list the contents of a directory, including hidden files
+- use **ls -a** to list the contents of a directory, including hidden files
