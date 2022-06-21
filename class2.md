@@ -24,7 +24,7 @@
 - a **dot** (.) is a reference for your current directory
 - a **dotdot** (..) is a reference to the parent directory
 
-### **Everything is a File**
+### **Info about Files**
 - With Linux, everything is actually a file: a text file is a file, a directory is a file, the monitor is a file, and even the keyboard is a file
 - Under Linux, the system ignores a file's extension and looks inside the file to determine what type of file it actually is
 - Linux is case sensitive, and a space on the command line is how to separate items, so be mindful of spaces in file and directory names
