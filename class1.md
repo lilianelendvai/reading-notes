@@ -1,4 +1,4 @@
-# Intro to Markdown
+# Class 1 Notes - Intro to Markdown
 
 As I'm writing this article, I'm on day 1 of learning to code with Code Fellows (I've been generous, earlier referring to myself as a newbie coder... it's more like an absolute novice). But I actually find it amusing, knowing I'll read this article back one day and get a good chuckle at my humble beginnings. I've spent most of this Saturday afternoon watching recorded lectures, skipping around from one YouTube tutorial clip to the next, and scouring the internet to understand what GitHub is and how I don't accidentally break my first repository.
 
