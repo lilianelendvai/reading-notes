@@ -4,7 +4,7 @@
 
 **A text editor is a piece of software that allows you to write and manage text, especially the text to build a website. This is one of the most important tools used by web developers.**
 
-- When selecting a text editor, important features to consider include code completion, syntax highlighting, a variety of themes, and the ability to choose from a healthy selection of extensions.
+- When selecting a text editor, important features to consider include code completion, syntax highlighting, a variety of themes, and the ability to choose from a healthy selection of extensions
 - Choosing a text editor is a personal choice; the "best" text editor is more of a matter of opinion vs. a widely-held belief
 - Most text editors are pretty similar, so you should be able to complete the same basic functions regardless which one you choose
 - And although they have most of the same basic functions, there are some variations in the features, which influences the selection of one over another

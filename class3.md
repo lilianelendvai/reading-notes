@@ -1,8 +1,8 @@
 # Class 3 Reading Notes
 
-## Intro to Git Notes
+## **Intro to Git Notes**
 
-### Version Control
+### **Version Control**
 
 - Version control is a system which allows you to revisit versions of a file or set of files by recording changes
 - Version control allows you to revert a file or project to a previous version, track modifications and modifying individuals, and compare changes
@@ -10,14 +10,14 @@
 - Centralized Version Control System (CVCS) streamlined the collaboration process through a single server storing all changes and file versions, which can be accessed by various clients
 - Distributed Version Control System (DVCS) allows clients to create mirrored repositories where data backups can be easily placed on the server to replace any lost information
 
-### What is Git?
+### **What is Git?**
 
 - Git is a DVCS that stores data in a file system made up of snapshots
 - Each time there's a changed and saved version of the project (called commit), Git creates a snapshot of the file and stores a reference of it
 - Git relies mostly on local operations, allowing for process expediency and for someone to work on a project even when not online or on a VPN
 - Files in Git are in three main states: committed (data securely stored in a local database), modified (file has been changed but not committed to the database), and staged (flagged a file's changed version to be committed to the next snapshot)
 
-### Getting Started
+### **"Gitting" Started**
 
 - Git can be installed as a package, via another installer, or downloading and compiling the source code
 - If you already have Git on your computer, check you have the latest version
@@ -27,7 +27,7 @@
 - Git will use the system's default editor (most likely Vim) unless configured; to configure a different text editor (such as Emacs), type `git config --global core.editor emacs`
 - Check settings using `git config --list`
 
-### Setting up a Git Repository
+### **Setting up a Git Repository**
 
 - To import an existing project or directory into Git:
 1. Switch to the target project's directory 
@@ -44,7 +44,7 @@
 - To clone a repository into a directory with another name:
 `git clone https://github.com/test mydirectory`
 
-### Workflow
+### **Workflow**
 
 The local Git repository has three components:
 1. Working Directory: The actual files reside here
@@ -63,7 +63,7 @@ The local Git repository has three components:
 - `git stash` is an option for when you are not ready to commit changes but don't want to lose them
 - `git stash apply` is used to retrieve the hidden changes
 
-### Remote Repositories
+### **Remote Repositories**
 
 - In order to collaborate on Git projects, you must interact with remote repositories, which are versions of a project residing online or on a network
 - Teams can use remote repositories to push information to and pull data from
