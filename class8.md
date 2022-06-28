@@ -19,7 +19,7 @@
 - Although there are many kinds of loops, they all repeat an action a number of times
 - Various loop mechanics offer different ways to determine the start and end points of the loop
 - The statement for loops in JavaScript are: for statement; do...while statement; while statement; labeled statement; break statement; continue statement; for...in statement; for...of statement
-- A `four` loop repeats until the specified condition evaluates to false
+- A `for` loop repeats until the specified condition evaluates to false
 - A `do...while` statement repeats until a specified condition evaluates to false
 - A `while` statement executes its statements as long as a specified condition evaluates to `true`
 - A `label` provides the statement an identifier which lets you refer to it elsewhere in your program
