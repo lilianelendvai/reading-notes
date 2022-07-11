@@ -1,5 +1,7 @@
 # 201 Course: Class 1 Reading Notes
 
+Why these topics matter: It's important to learn about the basics of how information is shared between clients and servers, so that we understand what is happening to the code we're writing. It's also important to understand some basics about HTML, CSS, and JavaScript, as all 3 languages are integral to making a website.
+
 ## **Getting Started**
 
 1. Compose a short poem describing how HTTP sends data between computers.
