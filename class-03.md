@@ -48,7 +48,7 @@ Why these topics matter: Ordered and unordered lists in HTML help to organize in
 
 ```
 
-- `people` would not be a valid JavaScript array, as the data should be within one set of brackets, not multiple
+- It is a valid array called a multidimensional arrage (an array inside an array). Chaining two sets of square brackets together allows one to access an item inside the array
 
 3. List five shorthand operators for assignment in JavaScript and describe what they do.
 
