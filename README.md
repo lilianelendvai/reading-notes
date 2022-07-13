@@ -4,14 +4,13 @@
 
 Hello, and I'm Liliane Lendvai (she/her). Thank you for visiting my Reading Notes page for the Code Fellows 102 and 201 courses. I live in the PNW / greater Seattle area, and as a former Californian, I'm in awe of all the greenery up this way and not being in a constant drought. I'm a former music instructor, a current executive recruiter, and a newbie coder!
 
-
 ### **Code 201 Reading Notes**
 
 ---
 
 - [Class 1](class-01.md)
 
-- Class 2 - coming soon
+- [Class 2](class-02.md)
 
 - Class 3 - coming soon
 
@@ -40,7 +39,6 @@ Hello, and I'm Liliane Lendvai (she/her). Thank you for visiting my Reading Note
 - Class 15 - coming soon
 
 ---
-
 
 ### **Code 102 Reading Notes**
 
