@@ -18,9 +18,9 @@ Rely upon your powers of translation.
 
 Command the Server to do thy bidding
 
-Oh, great Application Protocol, 
+Oh, great Application Protocol,
 
-Use your wily charm: 
+Use your wily charm:
 
 Bridge the divide from browser to DNS server.
 
@@ -33,7 +33,6 @@ And utter those sweet words of "200 OK"
 Carry forth thy data packets
 
 And teach me the meaning of a complete web page
-
 
 2. Describe how HTML, CSS, and JS files are "parsed" in the browser.
 
