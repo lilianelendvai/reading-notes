@@ -10,7 +10,7 @@ Why these topics matter: HTML elements are a way to bring meaning to our text, s
 
 2. How many levels of headings are there in HTML?
 
--There are 6 levels
+- There are 6 levels
 
 3. What are some uses for the `<sup>` and `<sub>` elements?
 
