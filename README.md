@@ -14,9 +14,9 @@ Hello, and I'm Liliane Lendvai (she/her). Thank you for visiting my Reading Note
 
 - [Class 3](class-03.md)
 
-- Class 4 - coming soon
+- [Class 4](class-04.md)
 
-- Class 5 - coming soon
+- [Class 5](class-05.md)
 
 - Class 6 - coming soon
 
