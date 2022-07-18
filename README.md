@@ -18,15 +18,15 @@ Hello, and I'm Liliane Lendvai (she/her). Thank you for visiting my Reading Note
 
 - [Class 5](class-05.md)
 
-- Class 6 - coming soon
+- [Class 6](class-06.md)
 
-- Class 7 - coming soon
+- [Class 7](class-07.md)
 
-- Class 8 - coming soon
+- [Class 8](class-08.md)
 
-- Class 9 - coming soon
+- [Class 9](class-09.md)
 
-- Class 10 - coming soon
+- [Class 10](class-10.md)
 
 - Class 11 - coming soon
 
