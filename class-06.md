@@ -29,12 +29,22 @@ Why these topics matter:
 
 5. Evaluate the code below. What does the term `this` refer to and what is the advantage to using `this`?
 
+-  `this` enables you to use the same method definition for every object you create
+
+- `this` is the keyword referring to the current object the code is being written inside
+- In the example,  `this` referring to members of the object, with the object being `dog`
+
+
 ## **Introduction to the DOM**
 
 1. What is the DOM?
 
-- 
+- The Document Object Model (DOM) is a program interface for web documents which represents the page so that programs can make changes to the document, such as structure, style, and content
+- DOM represents the document as nodes and objects so that programming languages can interact with the array
 
 2. Briefly describe the relationship between the DOM and JavaScript.
 
-- 
+- The code can be written in JavaScript but use DOM to access the document and its elements
+- DOM isn't a programming language
+- The document as a whole can be accessed and manipulated using the DOM and a scripting language like JavaScript
+- DOM is a Web API used to build websites
