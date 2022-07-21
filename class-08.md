@@ -34,4 +34,4 @@ https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox#why_flexbo
 
 2. How does this topic connect with your long term goals?
 
-- As we learn how to build web pages, it's important to have better control over where the content is located and how it is manipulated. Flexbox is available in most new browsers and more easily than floats or positioning allows for certain outcomes. Flexbox is a more recent tool that is increasing in popularity, so it's important to learn
+- As we learn how to build web pages, it's important to have better control over where the content is located and how it is manipulated. Flexbox is available in most new browsers and more easily than floats or positioning allows for certain outcomes. Flexbox is a more recent tool that is increasing in popularity, so it's important to learn.
