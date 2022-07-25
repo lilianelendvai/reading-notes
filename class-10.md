@@ -1,4 +1,4 @@
-# 201 Course: Class 6 Reading Notes
+# 201 Course: Class 10 Reading Notes
 
 Why these topics matter: It's important we learn how to identify errors in our code and ways that we can address them. It will be a constant part of our careers, dealing with these situations and finding ways to resolve them.
 
