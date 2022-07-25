@@ -28,7 +28,7 @@ Hello, and I'm Liliane Lendvai (she/her). Thank you for visiting my Reading Note
 
 - [Class 10](class-10.md)
 
-- Class 11 - coming soon
+- [Class 11](class-11.md)
 
 - Class 12 - coming soon
 
