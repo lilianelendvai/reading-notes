@@ -1,4 +1,4 @@
-# 201 Course: Class 6 Reading Notes
+# 201 Course: Class 11 Reading Notes
 
 ## **Video and Audio Content**
 
