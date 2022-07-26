@@ -30,7 +30,7 @@ Hello, and I'm Liliane Lendvai (she/her). Thank you for visiting my Reading Note
 
 - [Class 11](class-11.md)
 
-- Class 12 - coming soon
+- [Class 12](class-12.md)
 
 - Class 13 - coming soon
 
